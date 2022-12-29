@@ -1,0 +1,5 @@
+* Combined Direct and Indirect Approach to Adaptive Control
+This project implements a classic work done by Manuel A. Duarte and Kumpati S. Narendra in 1989. The original paper can be found here:
+[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=35278]]
+
+Since this work only discusses first-order systems, the implementation only requires Scipy's ODE solver for solving the ordinary differential equations and Matplotlib for plotting.
